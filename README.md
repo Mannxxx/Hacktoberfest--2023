@@ -1,12 +1,23 @@
-# Hacktoberfest Beginner's Guide
+# Hacktoberfest 2023 Beginner's Guide
 
 Welcome to Hacktoberfest! This is a beginner-friendly guide to help you get started with your first Pull Request (PR) for Hacktoberfest. We're excited to have you join the open source community and contribute to this project.
+
+
+
+# What is Hacktoberfest ?
+
+[Hacktoberfest 2023](https://hacktoberfest.com/) is a month-long celebration of open source software in partnership with Github.
+
+<div align="center">
+<img src="https://github.com/Mannxxx/Hacktoberfest--2023/blob/master/src/images/hf10_horz_fcd_cmyk.png" />
+</div>
+
 
 ## Getting Started
 
 ### Step 1: Fork the Repository
 
-Click the "Fork" button in the upper right-hand corner of this repository to create your own copy.
+Click the "Fork" button in the upper right-hand corner of this repository 	to create your own copy.
 
 ### Step 2: Clone Your Fork
 
@@ -18,7 +29,7 @@ git clone https://github.com/<your-username>/Hacktoberfest.git
 
 ### Step 3: Create a Branch
 
-Create a new branch to work on your changes:
+Create a new branch for your modifications (ie. `git branch new-user and check it out `git checkout new-user`or simply do`git checkout -b new-user`
 
 ```bash
 git checkout -b my-branch
