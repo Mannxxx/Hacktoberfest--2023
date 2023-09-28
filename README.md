@@ -2,8 +2,6 @@
 
 Welcome to Hacktoberfest! This is a beginner-friendly guide to help you get started with your first Pull Request (PR) for Hacktoberfest. We're excited to have you join the open source community and contribute to this project.
 
-
-
 # What is Hacktoberfest ?
 
 [Hacktoberfest 2023](https://hacktoberfest.com/) is a month-long celebration of open source software in partnership with Github.
@@ -11,7 +9,6 @@ Welcome to Hacktoberfest! This is a beginner-friendly guide to help you get star
 <div align="center">
 <img src="https://github.com/Mannxxx/Hacktoberfest--2023/blob/master/src/images/hf10_horz_fcd_cmyk.png" />
 </div>
-
 
 ## Getting Started
 
